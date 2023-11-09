@@ -1,11 +1,11 @@
 {
-  "name": "teams-project-17",
+  "name": "mimino",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/teams-project-17/",
+    "build": "vite build --base=/mimino/",
     "preview": "vite preview"
   },
   "devDependencies": {
